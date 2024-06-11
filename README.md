@@ -1,4 +1,4 @@
-I am currently an Assistant Researcher at Hangzhou Dianzi University. Before joining Hangzhou Dianzi University, I received my Ph.D. degree from the University of Technology Sydney (UTS). My recent research interests include **Fairness** and **Bayesian Statistics**. I am also interested in topics about **Bias mitigation in LLM** and **AI4Science**. Feel free to reach out to discuss potential collaborations in any related field or area of mutual interest.
+I am currently an Assistant Researcher at Hangzhou Dianzi University. Before joining Hangzhou Dianzi University, I received my Ph.D. degree from the University of Technology Sydney (UTS). My recent research interests include **Fairness** and **Bayesian Statistics**. I am also interested in topics about **Bias mitigation in LLM** and **AI4Science**. Feel free to reach out to discuss potential collaborations in any related field or area of mutual interest [[contact](yixuan.zhang@hdu.edu.cn)].
 
 ### News
 - One paper accepted for ICML 2024 
