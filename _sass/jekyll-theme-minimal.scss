@@ -284,3 +284,8 @@ footer {
     color:#444;
   }
 }
+
+.inline-links p {
+    display: inline;  /* Display paragraphs inline */
+    margin-right: 10px; /* Optional: Adds spacing between the links */
+}
