@@ -277,6 +277,11 @@ footer {
   }
 }
 
+.inline-links p {
+    display: inline;  /* Display paragraphs inline */
+    margin-right: 10px; /* Optional: Adds spacing between the links */
+}
+
 @media print {
   body {
     padding:0.4in;
@@ -285,7 +290,4 @@ footer {
   }
 }
 
-.inline-links p {
-    display: inline;  /* Display paragraphs inline */
-    margin-right: 10px; /* Optional: Adds spacing between the links */
-}
+
