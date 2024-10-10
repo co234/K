@@ -20,7 +20,7 @@ I am currently an Assistant Researcher at Hangzhou Dianzi University. Before joi
 ### Selected Publications
 - Z. Sun*, **Y. Zhang\***, Z. Ling, X. Fan and F. Zhou, "Nonstationary Sparse Spectral Permanental Process," NeurIPS 2024. [[paper]](http://www.arxiv.org/pdf/2410.03581)[[code]](https://github.com/SZC20/DNSSPP)
 - Z. Ling, L. Li, Z. Feng, **Y. Zhang**, F. Zhou, R. Qiu and Z. Liao, "Deep Equilibrium Models are Almost Equivalent to Not-so-deep Explicit Models for High-dimensional Gaussian Mixtures," ICML 2024. [[paper]](https://arxiv.org/abs/2402.02697)[[code]](https://github.com/StephenLi24/INN_eqvi_ENN)
-- **Y. Zhang**, B. Li, Z. Ling and F. Zhou, “Mitigating Label Bias in Machine Learning: Fairness through Confident Learning,” AAAI 2024. [[paper]](https://arxiv.org/abs/2312.08749) [[code]](https://github.com/co234/CL_Fair)
+- **Y. Zhang**, B. Li, Z. Ling and F. Zhou, “Mitigating Label Bias in Machine Learning: Fairness through Confident Learning,” AAAI 2024. [[paper]](https://arxiv.org/abs/2312.08749)[[code]](https://github.com/co234/CL_Fair)
 - **Y. Zhang**, Q. Kong and F. Zhou, “Integration-free Training for Spatio-temporal Multimodal Covariate Deep Kernel Point Processes,” NeurIPS 2023. [[paper]](https://arxiv.org/abs/2310.05485) 
 - **Y. Zhang**, F. Zhou, Z. Li, Y. Wang and F. Chen, “Fair Representation Learning with Unreliable Labels,” AISTATS 2023. [[paper]](https://proceedings.mlr.press/v206/zhang23g/zhang23g.pdf)[[code]](https://github.com/co234/frl-with-unreliable-label)
 - **Y. Zhang**, F. Zhou, Z. Li, Y. Wang and F. Chen, “Bias-Tolerant Fair Classification,” ACML 2021. [[paper]](https://proceedings.mlr.press/v157/zhang21d/zhang21d.pdf)
