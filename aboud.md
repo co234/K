@@ -23,7 +23,7 @@ I am currently an Assistant Researcher at Hangzhou Dianzi University. Before joi
 - **Y. Zhang**, B. Li, Z. Ling and F. Zhou, “Mitigating Label Bias in Machine Learning: Fairness through Confident Learning,” AAAI 2024. [[paper]](https://arxiv.org/abs/2312.08749)[[code]](https://github.com/co234/CL_Fair)
 - **Y. Zhang**, Q. Kong and F. Zhou, “Integration-free Training for Spatio-temporal Multimodal Covariate Deep Kernel Point Processes,” NeurIPS 2023. [[paper]](https://arxiv.org/abs/2310.05485)[[code]](https://github.com/co234/DKMPP) 
 - **Y. Zhang**, F. Zhou, Z. Li, Y. Wang and F. Chen, “Fair Representation Learning with Unreliable Labels,” AISTATS 2023. [[paper]](https://proceedings.mlr.press/v206/zhang23g/zhang23g.pdf)[[code]](https://github.com/co234/frl-with-unreliable-label)
-- **Y. Zhang**, F. Zhou, Z. Li, Y. Wang and F. Chen, “Bias-Tolerant Fair Classification,” ACML 2021. [[paper]](https://proceedings.mlr.press/v157/zhang21d/zhang21d.pdf)
+- **Y. Zhang**, F. Zhou, Z. Li, Y. Wang and F. Chen, “Bias-Tolerant Fair Classification,” ACML 2021. [[paper]](https://proceedings.mlr.press/v157/zhang21d/zhang21d.pdf)[[code]](https://github.com/co234/BFARL)
 - F. Zhou, Q. Kong, Z. Deng, J. Kan, **Y. Zhang**, C. Feng and J. Zhu, “Efficient Inference for Dynamic Flexible Interactions of Neural Populations,” JMLR 2022. [[paper]](https://www.jmlr.org/papers/volume23/21-1273/21-1273.pdf)[[code]](https://github.com/zhoufeng6288/DFN-Hawkes)
 - F. Zhou, **Y. Zhang** and J. Zhu, “Efficient Inference of Flexible Interaction in Spiking-neuron Networks,” ICLR 2021. [[paper]](https://openreview.net/pdf?id=aGfU_xziEX8)[[code]](https://github.com/zhoufeng6288/SNMHawkesBeta)
 
