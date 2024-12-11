@@ -7,11 +7,11 @@ permalink: /
 I am currently an Assistant Researcher at Hangzhou Dianzi University. Before joining Hangzhou Dianzi University, I received my Ph.D. degree from the University of Technology Sydney (UTS). My recent research interests include **Fairness** and **Bayesian Statistics**. I am also interested in topics about **Bias mitigation in LLM** and **AI4Science**. Feel free to reach out to discuss potential collaborations in any related field or area of mutual interest.
 
 ### News
+- One paper accepted for AAAI 2025
+- One paper accepted for KDD 2025
 - One paper accepted for NeurIPS 2024
 - One paper accepted for ICML 2024 
 - One paper accepted for AAAI 2024
-- One paper accepted for NeurIPS 2023
-- One paper accepted for AISTATS 2023
 
 ### Preprint
 - **Y. Zhang** and F. Zhou, "Bias Mitigation in Fine-tuning Pre-trained Models for Enhanced Fairness and Efficiency." [[paper]](https://arxiv.org/abs/2403.00625)
