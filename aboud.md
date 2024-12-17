@@ -7,17 +7,18 @@ permalink: /
 I am currently an Assistant Professor at School of Statistics and Data Science (SSDS), Southeast University. I received my Ph.D. degree from the University of Technology Sydney (UTS). My recent research interests include **Fairness** and **Bayesian Statistics**. I am also interested in topics about **Bias mitigation in LLM** and **AI4Science**. Feel free to reach out to discuss potential collaborations in any related field or area of mutual interest.
 
 ### News
-- One paper accepted for AAAI 2025
-- One paper accepted for KDD 2025
-- One paper accepted for NeurIPS 2024
-- One paper accepted for ICML 2024 
-- One paper accepted for AAAI 2024
+- One paper accepted at AAAI 2025
+- One paper accepted at KDD 2025
+- One paper accepted at NeurIPS 2024
+- One paper accepted at ICML 2024 
 
 ### Preprint
 - **Y. Zhang** and F. Zhou, "Bias Mitigation in Fine-tuning Pre-trained Models for Enhanced Fairness and Efficiency." [[paper]](https://arxiv.org/abs/2403.00625)
 - Z. Zhao, L. Cao and **Y. Zhang**, "Out-of-Distribution Knowledge Distillation via Confidence Amendment." [[paper]](https://arxiv.org/abs/2311.07975)
 
 ### Selected Publications
+- **Y. Zhang**, Z. Li, Y. Wang, F. Chen, X. Fan and F. Zhou, “Navigating Towards Fairness with Data Selection,” accepted at AAAI 2025. [[paper]](https://arxiv.org/abs/2412.11072)[[code]](https://github.com/co234/NFDS)
+- J. Lyu, **Y. Zhang**, X. LU and F. Zhou, "Task Diversity in Bayesian Federated Learning: Simultaneous Processing of Classification and Regression," accepted at KDD 2025. 
 - Z. Sun*, **Y. Zhang\***, Z. Ling, X. Fan and F. Zhou, "Nonstationary Sparse Spectral Permanental Process," NeurIPS 2024. [[paper]](http://www.arxiv.org/pdf/2410.03581)[[code]](https://github.com/SZC20/DNSSPP)
 - Z. Ling, L. Li, Z. Feng, **Y. Zhang**, F. Zhou, R. Qiu and Z. Liao, "Deep Equilibrium Models are Almost Equivalent to Not-so-deep Explicit Models for High-dimensional Gaussian Mixtures," ICML 2024. [[paper]](https://arxiv.org/abs/2402.02697)[[code]](https://github.com/StephenLi24/INN_eqvi_ENN)
 - **Y. Zhang**, B. Li, Z. Ling and F. Zhou, “Mitigating Label Bias in Machine Learning: Fairness through Confident Learning,” AAAI 2024. [[paper]](https://arxiv.org/abs/2312.08749)[[code]](https://github.com/co234/CL_Fair)
