@@ -31,7 +31,7 @@ I am currently an Assistant Professor at School of Statistics and Data Science (
 \* indicates equal contraibution
 
 ### Academic Services
-AAAI, AISTATS, NeurIPS, ICLR, TNNLS
+ICML, AISTATS, NeurIPS, ICLR, TNNLS
 
 
 
