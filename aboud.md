@@ -19,7 +19,7 @@ I am currently an Assistant Professor at School of Statistics and Data Science (
 ### Selected Publications
 - **Y. Zhang**, Z. Li, Y. Wang, F. Chen, X. Fan and F. Zhou, “Navigating Towards Fairness with Data Selection,” accepted at AAAI 2025. [[paper]](https://arxiv.org/abs/2412.11072)[[code]](https://github.com/co234/NFDS)
 - J. Lyu, **Y. Zhang**, X. LU and F. Zhou, "Task Diversity in Bayesian Federated Learning: Simultaneous Processing of Classification and Regression," accepted at KDD 2025. [[paper]](https://arxiv.org/abs/2412.10897) 
-- Z. Sun*, **Y. Zhang\***, Z. Ling, X. Fan and F. Zhou, "Nonstationary Sparse Spectral Permanental Process," NeurIPS 2024. [[paper]](http://www.arxiv.org/pdf/2410.03581)[[code]](https://github.com/SZC20/DNSSPP)
+- Z. Sun*, **Y. Zhang\***, Z. Ling, X. Fan and F. Zhou, "Nonstationary Sparse Spectral Permanental Process," NeurIPS 2024. [[paper]](https://openreview.net/pdf?id=jS34QpqdWs)[[code]](https://github.com/SZC20/DNSSPP)
 - Z. Ling, L. Li, Z. Feng, **Y. Zhang**, F. Zhou, R. Qiu and Z. Liao, "Deep Equilibrium Models are Almost Equivalent to Not-so-deep Explicit Models for High-dimensional Gaussian Mixtures," ICML 2024. [[paper]](https://arxiv.org/abs/2402.02697)[[code]](https://github.com/StephenLi24/INN_eqvi_ENN)
 - **Y. Zhang**, B. Li, Z. Ling and F. Zhou, “Mitigating Label Bias in Machine Learning: Fairness through Confident Learning,” AAAI 2024. [[paper]](https://arxiv.org/abs/2312.08749)[[code]](https://github.com/co234/CL_Fair)
 - **Y. Zhang**, Q. Kong and F. Zhou, “Integration-free Training for Spatio-temporal Multimodal Covariate Deep Kernel Point Processes,” NeurIPS 2023. [[paper]](https://arxiv.org/abs/2310.05485)[[code]](https://github.com/co234/DKMPP) 
