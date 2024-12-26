@@ -28,7 +28,7 @@ I am currently an Assistant Professor at School of Statistics and Data Science (
 - F. Zhou, Q. Kong, Z. Deng, J. Kan, **Y. Zhang**, C. Feng and J. Zhu, “Efficient Inference for Dynamic Flexible Interactions of Neural Populations,” JMLR 2022. [[paper]](https://www.jmlr.org/papers/volume23/21-1273/21-1273.pdf)[[code]](https://github.com/zhoufeng6288/DFN-Hawkes)
 - F. Zhou, **Y. Zhang** and J. Zhu, “Efficient Inference of Flexible Interaction in Spiking-neuron Networks,” ICLR 2021. [[paper]](https://openreview.net/pdf?id=aGfU_xziEX8)[[code]](https://github.com/zhoufeng6288/SNMHawkesBeta)
 
-\* indicates equal contraibution
+\* indicates equal contribution
 
 ### Academic Services
 ICML, AISTATS, NeurIPS, ICLR, TNNLS
