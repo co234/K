@@ -7,12 +7,15 @@ permalink: /
 I am currently an Assistant Professor at School of Statistics and Data Science (SSDS), Southeast University. I received my Ph.D. degree from the University of Technology Sydney (UTS). My recent research interests include **Fairness** and **Bayesian Statistics**. I am also interested in topics about **Bias mitigation in LLM** and **AI4Science**. Feel free to reach out to discuss potential collaborations in any related field or area of mutual interest.
 
 ### News
+- Honored to be selected as one of the recipients of the **Best Reviewer award** at [[AISTATS 2025]](https://url.au.m.mimecastprotect.com/s/EszZCK1D20t2Wy0LrhMfVc5tI__?domain=aistats.org)
 - One paper accepted at AAAI 2025
 - One paper accepted at KDD 2025
+- Recognized as one of the **Top Reviewers** for [[NeurIPS 2024]](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers)
 - One paper accepted at NeurIPS 2024
-- One paper accepted at ICML 2024 
 
 ### Preprint
+- Q. Kong, **Y. Zhang**, Y. Liu, P. Tong, E. Liu, F. Zhou, "Language-TPP: Integrating Temporal Point Processes with Language Models for Event Analysis." [[paper]](https://arxiv.org/pdf/2502.07139)
+- F. Zhou, Q. Kong, **Y. Zhang**, "Advances in Temporal Point Processes: Bayesian, Deep, and LLM Approaches." [[paper]](https://arxiv.org/pdf/2501.14291)
 - **Y. Zhang** and F. Zhou, "Bias Mitigation in Fine-tuning Pre-trained Models for Enhanced Fairness and Efficiency." [[paper]](https://arxiv.org/abs/2403.00625)
 - Z. Zhao, L. Cao and **Y. Zhang**, "Out-of-Distribution Knowledge Distillation via Confidence Amendment." [[paper]](https://arxiv.org/abs/2311.07975)
 
@@ -31,7 +34,7 @@ I am currently an Assistant Professor at School of Statistics and Data Science (
 \* indicates equal contribution
 
 ### Academic Services
-ICML, AISTATS, NeurIPS, ICLR, TNNLS
+ICML, AISTATS, NeurIPS, ICLR, TNNLS, TMLR
 
 
 
