@@ -7,11 +7,11 @@ permalink: /
 I am currently an Assistant Professor at School of Statistics and Data Science (SSDS), Southeast University. I received my Ph.D. degree from the University of Technology Sydney (UTS). My recent research interests include **Fairness** and **Bayesian Statistics**. I am also interested in topics about **Bias mitigation in LLM** and **AI4Science**. Feel free to reach out to discuss potential collaborations in any related field or area of mutual interest.
 
 ### News
+- Our paper got accepted to TPAMI
 - Honored to be selected as one of the recipients of the **Best Reviewer award** at [AISTATS 2025](https://url.au.m.mimecastprotect.com/s/EszZCK1D20t2Wy0LrhMfVc5tI__?domain=aistats.org)
 - One paper accepted at AAAI 2025
 - One paper accepted at KDD 2025
 - Recognized as one of the **Top Reviewers** for [NeurIPS 2024](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers)
-- One paper accepted at NeurIPS 2024
 
 ### Preprint
 - Q. Kong, **Y. Zhang**, Y. Liu, P. Tong, E. Liu, F. Zhou, "Language-TPP: Integrating Temporal Point Processes with Language Models for Event Analysis." [[paper]](https://arxiv.org/pdf/2502.07139)
@@ -20,6 +20,7 @@ I am currently an Assistant Professor at School of Statistics and Data Science (
 - Z. Zhao, L. Cao and **Y. Zhang**, "Out-of-Distribution Knowledge Distillation via Confidence Amendment." [[paper]](https://arxiv.org/abs/2311.07975)
 
 ### Selected Publications
+- Z. Zhao, L. Cao, **Y. Zhang**, K. Lin, W. Zheng, "Distilling the Unknown to Unveil Certainty," IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. 
 - **Y. Zhang**, Z. Li, Y. Wang, F. Chen, X. Fan and F. Zhou, “Navigating Towards Fairness with Data Selection,” accepted at AAAI 2025. [[paper]](https://arxiv.org/abs/2412.11072)[[code]](https://github.com/co234/NFDS)
 - J. Lyu, **Y. Zhang**, X. LU and F. Zhou, "Task Diversity in Bayesian Federated Learning: Simultaneous Processing of Classification and Regression," accepted at KDD 2025. [[paper]](https://arxiv.org/abs/2412.10897)[[code]](https://github.com/JunliangLv/task_diversity_BFL) 
 - Z. Sun*, **Y. Zhang\***, Z. Ling, X. Fan and F. Zhou, "Nonstationary Sparse Spectral Permanental Process," NeurIPS 2024. [[paper]](https://openreview.net/pdf?id=jS34QpqdWs)[[code]](https://github.com/SZC20/DNSSPP)
