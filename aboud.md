@@ -14,10 +14,10 @@ I am currently an Assistant Professor at School of Statistics and Data Science (
 - Recognized as one of the **Top Reviewers** for [NeurIPS 2024](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers)
 
 ### Preprint
-- Q. Kong, **Y. Zhang**, Y. Liu, P. Tong, E. Liu, F. Zhou, "Language-TPP: Integrating Temporal Point Processes with Language Models for Event Analysis." [[paper]](https://arxiv.org/pdf/2502.07139)
+- **Y. Zhang**, W. Zhang, H. Jiang, Q. Kong, F. Zhou, "Negative Binomial Variational Autoencoders for Overdispersed Latent Modeling." [[paper]](https://arxiv.org/pdf/2508.05423)
+- Q. Kong, **Y. Zhang**, Y. Liu, P. Tong, E. Liu, F. Zhou, "Language-TPP: Integrating Temporal Point Processes with Language Models for Event Analysis." [[paper]](https://arxiv.org/pdf/2502.07139)[[code]](https://github.com/qykong/Language-TPP)
 - F. Zhou, Q. Kong, **Y. Zhang**, "Advances in Temporal Point Processes: Bayesian, Deep, and LLM Approaches." [[paper]](https://arxiv.org/pdf/2501.14291)
 - **Y. Zhang** and F. Zhou, "Bias Mitigation in Fine-tuning Pre-trained Models for Enhanced Fairness and Efficiency." [[paper]](https://arxiv.org/abs/2403.00625)
-- Z. Zhao, L. Cao and **Y. Zhang**, "Out-of-Distribution Knowledge Distillation via Confidence Amendment." [[paper]](https://arxiv.org/abs/2311.07975)
 
 ### Selected Publications
 - Z. Zhao, L. Cao, **Y. Zhang**, K. Lin, W. Zheng, "Distilling the Unknown to Unveil Certainty," IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. 
