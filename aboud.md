@@ -7,6 +7,7 @@ permalink: /
 I am currently an Assistant Professor at School of Statistics and Data Science (SSDS), Southeast University. I received my Ph.D. degree from the University of Technology Sydney (UTS). My recent research interests include **Fairness** and **Bayesian Statistics**. I am also interested in topics about **Bias mitigation in LLM** and **AI4Science**. Feel free to reach out to discuss potential collaborations in any related field or area of mutual interest.
 
 ### News
+- First paper accepted to WWW!
 - One paper accepcted at AAAI 2026 (Got in 3 years in a row, 1 submission each time.)
 - Our paper got accepted to TPAMI
 - Honored to be selected as one of the recipients of the **Best Reviewer award** at [AISTATS 2025](https://url.au.m.mimecastprotect.com/s/EszZCK1D20t2Wy0LrhMfVc5tI__?domain=aistats.org)
@@ -21,8 +22,9 @@ I am currently an Assistant Professor at School of Statistics and Data Science (
 - **Y. Zhang** and F. Zhou, "Bias Mitigation in Fine-tuning Pre-trained Models for Enhanced Fairness and Efficiency." [[paper]](https://arxiv.org/abs/2403.00625)
 
 ### Selected Publications
+- Q. Kong, **Y. Zhang**, Y. Liu, P. Tong, E. Liu and F. Zhou, "Byte-token Enhanced Language Models for Temporal Point Processes Analysis," accepted at WWW 2026. [[paper]](https://arxiv.org/pdf/2502.07139)[[code]](https://github.com/qykong/LLM_TPP)
 - **Y. Zhang\***, J. Luo*, Z. Wang, F. Zhou and Q. Kong, "Fair Bayesian Data Selection via Generalized Discrepancy Measures," accepted at AAAI 2026. [[paper]](https://arxiv.org/abs/2511.07032)[[code]](https://github.com/co234/FairBADS)
-- Z. Zhao, L. Cao, **Y. Zhang**, K. Lin, W. Zheng, "Distilling the Unknown to Unveil Certainty," IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. 
+- Z. Zhao, L. Cao, **Y. Zhang**, K. Lin, W. Zheng, "Distilling the Unknown to Unveil Certainty," IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. [[paper]](https://ieeexplore.ieee.org/document/11059808) 
 - **Y. Zhang**, Z. Li, Y. Wang, F. Chen, X. Fan and F. Zhou, “Navigating Towards Fairness with Data Selection,” accepted at AAAI 2025. [[paper]](https://arxiv.org/abs/2412.11072)[[code]](https://github.com/co234/NFDS)
 - J. Lyu, **Y. Zhang**, X. LU and F. Zhou, "Task Diversity in Bayesian Federated Learning: Simultaneous Processing of Classification and Regression," accepted at KDD 2025. [[paper]](https://arxiv.org/abs/2412.10897)[[code]](https://github.com/JunliangLv/task_diversity_BFL) 
 - Z. Sun*, **Y. Zhang\***, Z. Ling, X. Fan and F. Zhou, "Nonstationary Sparse Spectral Permanental Process," NeurIPS 2024. [[paper]](https://openreview.net/pdf?id=jS34QpqdWs)[[code]](https://github.com/SZC20/DNSSPP)
