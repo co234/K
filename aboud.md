@@ -8,7 +8,7 @@ I am currently an Assistant Professor at School of Statistics and Data Science (
 
 ### News
 - First paper accepted to WWW!
-- One paper accepcted at AAAI 2026 (Got in 3 years in a row, 1 submission each time.)
+- One paper accepted at AAAI 2026 (Got in 3 years in a row, 1 submission each time.)
 - Our paper got accepted to TPAMI
 - Honored to be selected as one of the recipients of the **Best Reviewer award** at [AISTATS 2025](https://url.au.m.mimecastprotect.com/s/EszZCK1D20t2Wy0LrhMfVc5tI__?domain=aistats.org)
 - One paper accepted at AAAI 2025
