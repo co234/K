@@ -14,12 +14,9 @@ I am currently an Assistant Professor at School of Statistics and Data Science (
 - Honored to be selected as one of the recipients of the **Best Reviewer award** at [AISTATS 2025](https://url.au.m.mimecastprotect.com/s/EszZCK1D20t2Wy0LrhMfVc5tI__?domain=aistats.org)
 - Recognized as one of the **Top Reviewers** for [NeurIPS 2024](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers)
 
-### Preprint
-- F. Zhou, Q. Kong, **Y. Zhang**, "Advances in Temporal Point Processes: Bayesian, Deep, and LLM Approaches." [[paper]](https://arxiv.org/pdf/2501.14291)
-- **Y. Zhang** and F. Zhou, "Bias Mitigation in Fine-tuning Pre-trained Models for Enhanced Fairness and Efficiency." [[paper]](https://arxiv.org/abs/2403.00625)
 
 ### Selected Publications
-- **Y. Zhang**, J. Sheng, W. Zhang, Q. Kong, F. Zhou, "Negative Binomial Variational Autoencoders for Overdispersed Latent Modeling," accepted at CVPR 2026. [[paper]](https://arxiv.org/pdf/2508.05423)
+- **Y. Zhang\***, J. Sheng*, W. Zhang, Q. Kong, F. Zhou, "Negative Binomial Variational Autoencoders for Overdispersed Latent Modeling," accepted at CVPR 2026. [[paper]](https://arxiv.org/pdf/2508.05423)[[code]](https://github.com/co234/NegBio-VAE)
 - Q. Kong, **Y. Zhang**, Y. Liu, P. Tong, E. Liu and F. Zhou, "Byte-token Enhanced Language Models for Temporal Point Processes Analysis," accepted at WWW 2026. [[paper]](https://arxiv.org/pdf/2502.07139)[[code]](https://github.com/qykong/LLM_TPP)
 - **Y. Zhang\***, J. Luo*, Z. Wang, F. Zhou and Q. Kong, "Fair Bayesian Data Selection via Generalized Discrepancy Measures," accepted at AAAI 2026. [[paper]](https://arxiv.org/abs/2511.07032)[[code]](https://github.com/co234/FairBADS)
 - Z. Zhao, L. Cao, **Y. Zhang**, K. Lin, W. Zheng, "Distilling the Unknown to Unveil Certainty," IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. [[paper]](https://ieeexplore.ieee.org/document/11059808) 
