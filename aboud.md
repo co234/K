@@ -4,7 +4,7 @@ title:
 permalink: /
 ---
 
-I am currently an Assistant Professor at School of Statistics and Data Science (SSDS), Southeast University. I received my Ph.D. degree from the University of Technology Sydney (UTS). My recent research interests include **Fairness** and **Bayesian Statistics**. I am also interested in topics about **Bias mitigation in LLM** and **AI4Science**. Feel free to reach out to discuss potential collaborations in any related field or area of mutual interest.
+I am currently an Assistant Professor at the School of Statistics and Data Science, Southeast University. I received my Ph.D. from the University of Technology Sydney. My research interests include **Fairness**, **Bayesian Statistics**, and **Trustworthy AI**. I am also interested in **interdisciplinary research at the intersection of AI and other fields**. Feel free to reach out to discuss potential collaborations in these areas or other topics of mutual interest.
 
 有意向加入的同学，可以先看一下[招生 Q&A](/files/admission_qa.pdf)
 
